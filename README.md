@@ -1,5 +1,9 @@
 # Add divi on custom post type
 
+Instruction
+
+Add this to your Functions. PHP Child Theme
+
 ```php
 /* Enable Divi Builder on all post types with an editor box */
 function myprefix_add_post_types($post_types) {
