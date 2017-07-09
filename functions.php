@@ -1,3 +1,4 @@
+<?php
 /* Enable Divi Builder on all post types with an editor box */
 function myprefix_add_post_types($post_types) {
 	foreach(get_post_types() as $pt) {
